@@ -4,3 +4,10 @@ cf
 practical
 html
 maths
+bca sem-2
+ds
+php
+sad
+env sci
+coa
+practical 
